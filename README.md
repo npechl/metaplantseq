@@ -47,15 +47,15 @@ nextflow run metaplantcode/metaplantseq \
    --outdir <OUTDIR>
 ```
 
-> [!WARNING]
+> [!ΝΟΤΕ]
 > Please provide pipeline parameters via the CLI or Nextflow `-params-file` option. Custom config files including those provided by the `-c` Nextflow option can be used to provide any configuration _**except for parameters**_;
 > see [docs](https://nf-co.re/usage/configuration#custom-configuration-files).
 
 ## Credits
 
-metaplantcode/metaplantseq was originally written by Nikos Pechlivanis.
+metaplantcode/metaplantseq was originally written by Metaplantcode project.
 
-We thank the following people for their extensive assistance in the development of this pipeline:
+<!-- We thank the following people for their extensive assistance in the development of this pipeline: -->
 
 <!-- TODO nf-core: If applicable, make list of people who have also contributed -->
 
